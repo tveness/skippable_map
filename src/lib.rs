@@ -60,6 +60,7 @@ use std::{collections::HashMap, marker::PhantomData};
 pub struct SkippableMap<K, V>(pub HashMap<K, V>);
 
 impl<K, V> SkippableMap<K, V> {
+    /// Returns the wrapped inner [`HashMap`], consuming self
     pub fn inner(self) -> HashMap<K, V> {
         self.0
     }
