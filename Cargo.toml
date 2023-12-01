@@ -2,6 +2,11 @@
 name = "skippable_map"
 version = "0.1.0"
 edition = "2021"
+description = "deserialize wrapper around HashMap which skips non-conforming data"
+repository = "https://github.com/tveness/skippable_map"
+readme = "README.md"
+license = "MIT"
+authors = ["Thomas Veness <veness@protonmail.com>"]
 
 [dependencies]
 serde = { version = "1.0.193", features = ["derive"] }
