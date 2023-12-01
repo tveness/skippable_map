@@ -1,6 +1,6 @@
 # skippable_map
 
-[![Crates.io](https://img.shields.io/crates/v/file_env_const.svg?style=for-the-badge)](https://crates.io/crates/skippable_map)
+[![Crates.io](https://img.shields.io/crates/v/skippable_map.svg?style=for-the-badge)](https://crates.io/crates/skippable_map)
 [![Documentation](https://img.shields.io/docsrs/skippable_map?style=for-the-badge)](https://docs.rs/skippable_map/)
 [![Build status](https://img.shields.io/github/actions/workflow/status/tveness/skippable_map/rust.yml?label=Tests&style=for-the-badge)](https://github.com/tveness/skippable_map/actions/workflows/rust.yml)
 [![License](https://img.shields.io/github/license/tveness/skippable_map?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
